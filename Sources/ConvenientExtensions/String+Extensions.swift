@@ -7,7 +7,7 @@
 
 import Foundation
 
-extension String {
+public extension String {
     
     private static let slugSafeCharacters = CharacterSet(
         charactersIn: "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-")

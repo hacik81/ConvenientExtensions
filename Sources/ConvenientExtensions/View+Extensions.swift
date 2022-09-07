@@ -8,7 +8,7 @@
 import SwiftUI
 
 @available(iOS 13.0, *)
-extension View {
+public extension View {
     
     /// Hides keyboard using onTapGesture on a View
     func hideKeyboard() {

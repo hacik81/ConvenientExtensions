@@ -7,7 +7,7 @@
 
 import UIKit
 
-extension UIApplication {
+public extension UIApplication {
     
     @available(iOS 9.2, *)
     /// Adds gesture recognizer to allow keyboard dismiss by tapping a view outside text field.
