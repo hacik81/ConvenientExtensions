@@ -1,3 +1,5 @@
 # ConvenientExtensions
 
-A description of this package.
+This package representing a collection of convenient extensions that making my work easier.
+
+v1.0
